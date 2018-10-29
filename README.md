@@ -1,7 +1,7 @@
 # codingassessmentJPMC
 JP Morgan Coding Assessment
 
-Max Range Sum
+### Max Range Sum
 Difficulty: Easy
 Time Limit: 30 min
 Description
@@ -21,7 +21,7 @@ Expected Output
 16
 
 
-Text Dollar
+### Text Dollar
 Difficulty: Hard
 Time Limit: 45 min
 Description
