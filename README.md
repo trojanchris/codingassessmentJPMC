@@ -1,7 +1,8 @@
 # codingassessmentJPMC
 JP Morgan Coding Assessment
-```
-Max Range Sum
+
+## Max Range Sum
+``` 
 Difficulty: Easy
 Time Limit: 30 min#Description
 Bob is developing a new strategy to get rich in the stock market. He wishes to invest his portfolio for 1 or more days, then sell it at the right time to maximize his earnings. Bob has painstakingly tracked how much his portfolio would have gained or lost for each of the last N days. Now he has hired you to figure out what would have been the largest total gain his portfolio could have achieved. 
@@ -20,7 +21,8 @@ Expected Output
 16
 
 ```
-### Text Dollar
+## Text Dollar
+```
 Difficulty: Hard
 Time Limit: 45 min
 Description
@@ -56,3 +58,4 @@ Input
 21 
 Expected Output
 TwentyOneDollars
+```
