@@ -1,10 +1,9 @@
 # codingassessmentJPMC
 JP Morgan Coding Assessment
-
-### Max Range Sum
+```
+Max Range Sum
 Difficulty: Easy
-Time Limit: 30 min
-Description
+Time Limit: 30 min#Description
 Bob is developing a new strategy to get rich in the stock market. He wishes to invest his portfolio for 1 or more days, then sell it at the right time to maximize his earnings. Bob has painstakingly tracked how much his portfolio would have gained or lost for each of the last N days. Now he has hired you to figure out what would have been the largest total gain his portfolio could have achieved. 
 
 Example: Bob kept track of the last 10 days in the stock market. On each day, the gains/losses are as follows: 7 -3 -10 4 2 8 -2 4 -5 -2. If Bob entered the stock market on day 4 and exited on day 8, his gains would have been 16 (4 + 2 + 8 + -2 + 4).
@@ -20,7 +19,7 @@ Input
 Expected Output
 16
 
-
+```
 ### Text Dollar
 Difficulty: Hard
 Time Limit: 45 min
